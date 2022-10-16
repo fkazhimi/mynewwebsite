@@ -1,3 +1,7 @@
 .grid-container {
     display: inline-grid;
   }
+
+.all-shade-continer {
+    background-color: aquamarine;
+}
